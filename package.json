@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-rename": "^1.2.2",
+    "lodash": "^4.17.4",
+    "map-stream": "0.0.7"
+  }
+}
